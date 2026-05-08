@@ -30,17 +30,3 @@ Este repositório reúne projetos desenvolvidos com técnicas de **aprendizado n
 
 ---
 
-## Organização 
-
-```text
-Unsupervised-Learning-Portfolio/
-│
-├── README.md
-│
-├── docs/
-│   └── index.md
-│
-└── imagens/
-    ├── pca_imoveis.png
-    ├── clustering.png
-    └── pca_rating.png
