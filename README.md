@@ -10,7 +10,7 @@ Mais conteudos e detalhes: https://samantads.com/
 
 | Projeto | Técnica | Objetivo |
 |---|---|---|
-| [PCA Rating](https://github.com/samantaleke/Unsupervised_PCA_rating_valor_imovel) | PCA / Análise Fatorial | Criação de indicador sintético a partir de avaliações |
+| [PCA Rating](https://github.com/samantaleke/Unsupervised_PCA_ranking_valor_imovel) | PCA / Análise Fatorial | Criação de indicador sintético a partir de avaliações |
 | [Clustering](https://github.com/samantaleke/Unsupervised_clustering) | K-Means / Hierárquico | Agrupamento de observações com base em similaridade |
 | [PCA Imóveis](https://github.com/samantaleke/Unsupervised_PCA) | PCA / Análise Fatorial | Criação de indicador sintético para critério de preço de imóveis |
 
