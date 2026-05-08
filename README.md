@@ -2,6 +2,8 @@
 
 Este repositório reúne projetos desenvolvidos com técnicas de **aprendizado não supervisionado**, incluindo **PCA**, **análise fatorial** e **clusterização**.
 
+Mais conteudos e detalhes: https://samantads.com/
+
 ---
 
 ## Projetos
