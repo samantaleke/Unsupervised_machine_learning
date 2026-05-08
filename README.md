@@ -1,4 +1,4 @@
-# Portfólio — Aprendizado Não Supervisionado
+# Aprendizado Não Supervisionado
 
 Este repositório reúne projetos desenvolvidos com técnicas de **aprendizado não supervisionado**, incluindo **PCA**, **análise fatorial** e **clusterização**.
 
