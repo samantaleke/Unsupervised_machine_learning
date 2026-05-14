@@ -14,7 +14,7 @@ Mais conteudos e detalhes: https://samantads.com/
 | [Clustering](https://github.com/samantaleke/Unsupervised_clustering) | K-Means / Hierárquico | Agrupamento de observações com base em similaridade |
 | [PCA Imóveis](https://github.com/samantaleke/Unsupervised_PCA) | PCA / Análise Fatorial | Criação de indicador sintético para critério de preço de imóveis |
 | [[MCA Streaming](https://github.com/samantaleke/Unsupervised_MCA) | MCA / Análise de Correspondência | Representação de variáveis categóricas em mapa perceptual para análise de associações | |
-| [MCA Bank Marketing](https://github.com/samantaleke/Unsupervised_MCA_bank_marketin)) | MCA / Análise de Correspondência Múltipla | Análise de associação entre categorias de clientes em campanhas de marketing bancário |
+| [MCA Bank Marketing](https://github.com/samantaleke/Unsupervised_MCA_bank_marketing)) | MCA / Análise de Correspondência Múltipla | Análise de associação entre categorias de clientes em campanhas de marketing bancário |
 
 ---
 
