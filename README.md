@@ -20,6 +20,8 @@ Mais conteudos e detalhes: https://samantads.com/
 
 ## Técnicas utilizadas
 
+## Técnicas utilizadas
+
 - Análise de Componentes Principais [PCA]
 - Análise Fatorial
 - Matriz de Correlação de Pearson
@@ -31,6 +33,16 @@ Mais conteudos e detalhes: https://samantads.com/
 - Scores fatoriais
 - Clusterização K-Means
 - Clusterização Hierárquica
+- Análise de Correspondência Simples [ANACOR]
+- Análise de Correspondência Múltipla [MCA]
+- Tabelas de contingência
+- Teste Qui-Quadrado de independência
+- Frequências observadas e esperadas
+- Resíduos padronizados e resíduos ajustados
+- Inércia explicada
+- Massas de linhas e colunas
+- Coordenadas fatoriais das categorias
+- Mapa perceptual
 
 ---
 
