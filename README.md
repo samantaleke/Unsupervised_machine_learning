@@ -13,7 +13,7 @@ Mais conteudos e detalhes: https://samantads.com/
 | [PCA Ranking](https://github.com/samantaleke/Unsupervised_PCA_ranking_valor_imovel) | PCA / Análise Fatorial | Criação de indicador sintético a partir de avaliações |
 | [Clustering](https://github.com/samantaleke/Unsupervised_clustering) | K-Means / Hierárquico | Agrupamento de observações com base em similaridade |
 | [PCA Imóveis](https://github.com/samantaleke/Unsupervised_PCA) | PCA / Análise Fatorial | Criação de indicador sintético para critério de preço de imóveis |
-| [[MCA Streaming](https://github.com/samantaleke/Unsupervised_MCA) | MCA / Análise de Correspondência | Análise de associação entre categorias de clientes e padrões de consumo em streaming |
+| [[MCA Streaming](https://github.com/samantaleke/Unsupervised_MCA) | MCA / Análise de Correspondência | Representação de variáveis categóricas em mapa perceptual para análise de associações | |
 
 ---
 
